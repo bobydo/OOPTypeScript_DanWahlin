@@ -19,4 +19,6 @@
 
 ![image](https://user-images.githubusercontent.com/64368109/132263044-73c77cfb-b4d5-4a7b-80c1-38bf8fc905ca.png)
 
+-  Generic
 
+![image](https://user-images.githubusercontent.com/64368109/132263602-7821908a-3d7c-48ef-aba2-b830016a223a.png)
