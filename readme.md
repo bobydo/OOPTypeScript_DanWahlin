@@ -6,6 +6,8 @@
 
 1. Install Node.js from http://nodejs.org
 
-1. Run `npm install` 
+2. Run `npm install` 
 
-1. Run `npm start` to compile the TypeScript and start the server 
+3. Run `npm run webpack:w`
+
+4. Open another terminal to Run `npm start` to compile the TypeScript and start the server 
