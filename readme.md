@@ -26,3 +26,7 @@
 ![image](https://user-images.githubusercontent.com/64368109/132263701-39c7de29-fab1-49f8-9669-224f0915e203.png)
 
 
+-  Enum
+![image](https://user-images.githubusercontent.com/64368109/132263951-97d49818-7b45-482a-bd00-755e52a6f9cc.png)
+
+
