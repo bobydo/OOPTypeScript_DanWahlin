@@ -6,7 +6,9 @@
 
 1. Install Node.js from http://nodejs.org
 
-2. Run `npm install` 
+2. Install Typescript to run `npm install -g typescript`
+
+2. or Run `npm install` will install everything accoridng to your package.json 
 
 3. Run `npm run webpack:w`
 
