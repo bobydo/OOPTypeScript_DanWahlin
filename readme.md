@@ -10,6 +10,6 @@
 
 2. or Run `npm install` will install everything accoridng to your package.json 
 
-3. Run `npm run webpack:w`
+3. Run `npm run webpack:w` or run typesript by `tsc -w`
 
 4. Open another terminal to Run `npm start` to compile the TypeScript and start the server 
