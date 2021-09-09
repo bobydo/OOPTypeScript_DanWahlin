@@ -1,6 +1,5 @@
-# Angular crash course
+# Angular crash course and TypeScript Examples
 -  All in one https://www.youtube.com/watch?v=LA_v8isNp5E
-#TypeScript Examples
 -  Good course for free : https://www.youtube.com/watch?v=gp5H0Vw39yw
 -  get examples folder and see sample code
 -  Node js for scalable and fast app https://www.youtube.com/watch?v=UCd6LorxpkY
